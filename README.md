@@ -29,6 +29,6 @@ to the ```require``` section of your `composer.json` file.
 use Eskadra\url_converter;
 
 echo url_converter::widget(
-['message'=>'напиши сюда']
+['message'=>'write something here']
 );
 ```
