@@ -1,6 +1,6 @@
 <?php
 /**
- * brace check - checks whether delimiters are symmetric or not
+ * url_converter
  *
  * @author Fedor Vyrzhykovsky
  */
