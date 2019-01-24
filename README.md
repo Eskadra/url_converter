@@ -2,7 +2,7 @@
 
 # What does it do
 rewrites the russian-language string to translit
-example: ВсЕм привет!! => vsem-privet
+'''example: ВсЕм привет!! => vsem-privet
 
 ## Installation
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/). Remember to refer to the [composer.json](https://github.com/kartik-v/yii2-widgets/blob/master/composer.json) for 
